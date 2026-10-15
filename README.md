@@ -11,6 +11,10 @@
 命令行：`./gradlew assembleDebug`，APK 在 `app/build/outputs/apk/debug/`。
 单元测试：`./gradlew test`。
 
+**不想本地编译**：每次推送到 main，GitHub Actions 会自动跑测试并打包。
+到仓库的 Actions 页 → 点最新一次运行 → 底部 Artifacts 里下载 `tetris-debug-apk`，
+解压后把 APK 装到手机上（需允许"安装未知来源应用"）。
+
 ## 玩法
 
 | 操作 | 按键 | 棋盘手势 | 实体键盘 |
