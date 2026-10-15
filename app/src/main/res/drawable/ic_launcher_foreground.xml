@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 108x108 自适应图标前景：一个 T 块 + 一个 L 块 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- T 块（紫） -->
+    <path android:fillColor="#A855F7" android:pathData="M45,33h13v13h-13z" />
+    <path android:fillColor="#A855F7" android:pathData="M32,47h13v13h-13z" />
+    <path android:fillColor="#A855F7" android:pathData="M45,47h13v13h-13z" />
+    <path android:fillColor="#A855F7" android:pathData="M58,47h13v13h-13z" />
+    <!-- L 块（橙） -->
+    <path android:fillColor="#F97316" android:pathData="M32,62h13v13h-13z" />
+    <path android:fillColor="#F97316" android:pathData="M45,62h13v13h-13z" />
+    <path android:fillColor="#F97316" android:pathData="M58,62h13v13h-13z" />
+    <path android:fillColor="#22D3EE" android:pathData="M63,33h13v13h-13z" />
+</vector>
